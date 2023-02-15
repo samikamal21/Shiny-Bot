@@ -18,3 +18,5 @@ Next, in order to figure out out the RGB value and window coordinates for the bo
 Ater doing the following, your mouse position and the RGB value of where your mouse is will be constantly updated, so in your Pokemon Game, hover over any pixel of the Pokemon to get it's RGB value and coordinates.
 
 Now, you must set up the bot using the Shinybot.py methods. If you take a look at RenegadeShinies.py, that is a good example of how I automated the bot to find shinies in Pokemon Renegade Platinum. 
+
+*Before you run your bot, make sure to not cover the game window or else the bot will not check the correct pixel. 
