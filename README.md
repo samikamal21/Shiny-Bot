@@ -4,7 +4,7 @@
 In ShinyBot.py, you can use the methods to set up a bot if you provide the following information:
 - Window name of game, ex: "Pokemon Insurgence"
 - Non-shiny Pokemon RGB value, ex: (115, 73, 105)
-- Window coordinates of what pixel you want to check. ex: (410,243)
+- Window coordinates of what pixel you want to check. ex: (410, 243)
 
 *Note that the bot will automically move the screen to (0,0), which is the top left of your screen. So first make sure to have the bot move your game window to (0,0) using the Shinybot.moveWindow(windowName, posX, posY)
  
