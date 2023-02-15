@@ -33,6 +33,4 @@ def shinyHunt(posX, posY, pixelRGB):
         ShinyBot.keyPressShortCut('ctrl','r',11) 
 
 # Main
-
-# pyautogui.displayMousePosition()
 shinyHunt(410,243, (174,223,101))
