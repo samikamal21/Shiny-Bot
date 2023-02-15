@@ -9,6 +9,9 @@ In ShinyBot.py, you can use the methods to set up a bot if you provide the follo
 In order to figure out out the RGB value and window coordinates for the bot to check, open the idle shell in python and write the following:
 - import pyautogui
 - pyautogui.displayMousePosition()
+<p align="center">
+  <img src="pyauto.png"/>
+</p>
 
 
 
