@@ -10,7 +10,7 @@ In order to figure out out the RGB value and window coordinates for the bot to c
 - import pyautogui
 - pyautogui.displayMousePosition()
 <p align="center">
-  <img src="pyauto.png"/>
+  <img src="pyauto.PNG"/>
 </p>
 
 
